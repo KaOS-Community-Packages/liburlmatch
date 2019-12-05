@@ -1,6 +1,6 @@
 _pkgname=urlmatch
 pkgname=lib${_pkgname}
-pkgver=222
+pkgver=224
 pkgrel=1
 pkgdesc='A fast URL matcher library'
 arch=('x86_64')
